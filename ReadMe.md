@@ -1,4 +1,4 @@
-# SMS Spam Classification Project
+# SMS Spam Dectector Project
 
 ## Summary
 
