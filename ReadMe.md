@@ -65,7 +65,7 @@ The final component of the project is the creation of a user-friendly interface 
 
 ## Conclusion
 
-In conclusion, the SMS Spam Classification project effectively demonstrates the process of building a machine learning model for text classification. Two specific findings from this project are:
+In conclusion, the SMS Spam Classification project effectively demonstrates the process of building a machine learning model for text classification. By leveraging the power of TF-IDF vectorization and Linear Support Vector Classification, the project showcases a robust approach to handling textual data and transforming it into meaningful insights. The integration of these techniques within a streamlined pipeline not only simplifies the workflow but also ensures consistency and reproducibility of results. The careful selection of the SMS dataset, with its clear labels and real-world relevance, underscores the practical applicability of the model in various domains. Additionally, the deployment of the model via a user-friendly Gradio interface highlights the importance of accessibility and ease of use, making advanced machine learning techniques available to a broader audience. Two specific findings from this project are:
 
 1. **The Importance of Data Preprocessing**: Properly preprocessing the text data, including steps like cleaning, normalizing, and vectorizing, is crucial for the success of the machine learning model. The TF-IDF vectorization helps in capturing the significance of words in the context of the entire dataset, which greatly enhances the model's ability to distinguish between spam and ham messages.
 
